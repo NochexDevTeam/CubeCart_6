@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions version="1.0">
+ <group name="nochex_apc">
+  <string name="module_title"><![CDATA[Nochex APC]]></string>
+  <string name="settings"><![CDATA[Nochex Settings]]></string>
+  <string name="mode_xml"><![CDATA[Detailed Product Information]]></string>
+  <string name="mode_postage"><![CDATA[Show Postage]]></string>
+  <string name="mode_hide"><![CDATA[Hide Billing Details]]> - If you enable this option we advise to place a note on your checkout page to inform your customers to check the billing address details match the address details on their card they are going to use.</string>
+  <string name="mode_default"><![CDATA[Default Module]]></string>  
+  <string name="mode_merchantid"><![CDATA[Nochex Merchant ID]]></string>  
+  <string name="mode_test"><![CDATA[Test Mode]]></string>     <string name="mode_callback"><![CDATA[Callback]]></string>   </group>
+</definitions>
