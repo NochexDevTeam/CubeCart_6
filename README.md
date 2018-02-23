@@ -3,7 +3,7 @@ Nochex Module for Cubecart
 
 Installation
 ============
-To Install and Setup the Nochex module please follow our integration guide, which can be found here: https://support.nochex.com/kb/faq.php?id=131
+To Install and Setup the Nochex module please follow our integration guide, which can be found <a href="https://support.nochex.com/kb/faq.php?id=131">here</a>
 
 Support
 =====================
