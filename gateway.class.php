@@ -46,14 +46,14 @@ if($this->_module['testMode'] == "1"){
 	
 	$test_trans = "100";
 
-}
+}else{	$test_trans = "0";}
 
 /* Hide Billing Details - Check if this option is enabled in the module */
 if($this->_module['hideMode'] == "1"){
 
 	$hideBilling = "true";
 
-}
+}else{	$hideBilling = "false";}
 
 /* Xml Collection - Check if this option is enabled in the module */
 if($this->_module['xmlMode'] == "1"){
@@ -69,6 +69,7 @@ if($this->_module['xmlMode'] == "1"){
 $itemCollect .="</items>";
 $description = "Order created for: ". $this->_basket['cart_order_id'];
 }else{
+	$itemCollect = "";
 	$description = "";
 	
 	foreach ($this->_basket['contents'] as $key => $product) {
