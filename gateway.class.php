@@ -182,7 +182,7 @@ $postage="";
 
 			'cancel_url' => $GLOBALS['storeURL'].'/index.php?_a=complete&amp;cmd=cancel',
  
-			'callback_url' => $GLOBALS['storeURL'].'/index.php?_g=rm&amp;type=gateway&amp;cmd=call&amp;module=Nochex_APC',
+			'callback_url' => $GLOBALS['storeURL'].'/index.php?_g=rm&amp;type=gateway&amp;cmd=call&amp;module=nochex_apc',
 
 			'test_transaction' => $test_trans,
 
