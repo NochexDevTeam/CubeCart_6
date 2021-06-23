@@ -10,5 +10,6 @@
   <string name="mode_merchantid"><![CDATA[Nochex Merchant ID]]></string>  
   <string name="mode_merchantidUSD"><![CDATA[Nochex Merchant ID USD]]></string>  
   <string name="mode_merchantidEUR"><![CDATA[Nochex Merchant ID EUR]]></string>  
-  <string name="mode_test"><![CDATA[Test Mode]]></string>     <string name="mode_callback"><![CDATA[Callback]]></string>   </group>
+  <string name="mode_test"><![CDATA[Test Mode]]></string>
+ </group>
 </definitions>
