@@ -14,6 +14,9 @@ Visit our Knowledgebase for support: https://support.nochex.com/
 Changelog
 =====================
 
+- 2.1.2
+  + Updated callback 
+
 - 2.1.1
   + Updated Item Total as was showing incorrectly if sale price was used instead of price.
   + Price / Number formatting
