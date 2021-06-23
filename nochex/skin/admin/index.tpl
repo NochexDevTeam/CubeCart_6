@@ -12,7 +12,7 @@
 			<div><label for="emailEUR">{$LANG.nochex_apc.mode_merchantidEUR}</label><span><input name="module[emailEUR]" id="emailEUR" class="textbox" type="text" value="{$MODULE.emailEUR}" /></span></div>
   			<div><label for="mode_test">{$LANG.nochex_apc.mode_test}</label><span><input type="hidden" name="module[testMode]" id="testMode" class="toggle" value="{$MODULE.testMode}" /></span>
     		</div>
-			<div><label for="hide">{$LANG.nochex_apc.mode_hide}</label><span><input type="hidden" name="module[hideMode]" id="hideMode" class="toggle" value="{$MODULE.hideMode}" /></span></div>						<div><label for="callback">{$LANG.nochex_apc.mode_callback}</label><span><input type="hidden" name="module[callback]" id="callback" class="toggle" value="{$MODULE.callback}" /></span></div>
+			<div><label for="hide">{$LANG.nochex_apc.mode_hide}</label><span><input type="hidden" name="module[hideMode]" id="hideMode" class="toggle" value="{$MODULE.hideMode}" /></span></div>
 			<div><label for="postage">{$LANG.nochex_apc.mode_postage}</label><span><input type="hidden" name="module[postageMode]" id="postageMode" class="toggle" value="{$MODULE.postageMode}" /></span>
 			<div><label for="xml">{$LANG.nochex_apc.mode_xml}</label><span><input type="hidden" name="module[xmlMode]" id="xmlMode" class="toggle" value="{$MODULE.xmlMode}" /></span>
     		</div>
