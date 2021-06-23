@@ -49,12 +49,7 @@ class Gateway {
 public function fixedVariables() {		
 
 /* Callback - Check if this option is enabled in the module */
-
-if($this->_module['callback'] == "1"){	
-	$callback = "Enabled";
-}else{
-	$callback = "Disabled";	
-}
+$callback = "Enabled";
 
 /* Test Mode - Check if this option is enabled in the module */
 if($this->_module['testMode'] == "1"){
