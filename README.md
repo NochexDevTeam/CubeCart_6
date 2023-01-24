@@ -5,7 +5,7 @@ Installation
 ============
 Tested up to Cubecart version: 6.4.9
 
-To Install and Setup the Nochex module please follow our integration guide, which can be found <a href="https://support.nochex.com/kb/faq.php?id=131">here</a>
+To Install and Setup the Nochex module please follow our integration guide, which can be found <a href="https://ssl.nochex.com/Docs/shopping-cart-guides/CubeCart">here</a>
 
 Support
 =====================
