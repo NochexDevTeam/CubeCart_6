@@ -14,6 +14,9 @@ Visit our Knowledgebase for support: https://support.nochex.com/
 Changelog
 =====================
 
+- 2.1.3
+  + Small change to APC page
+
 - 2.1.2
   + Updated callback 
 
