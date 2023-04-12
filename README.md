@@ -3,7 +3,7 @@ Nochex Module for Cubecart
 
 Installation
 ============
-Tested up to Cubecart version: 6.4.10
+Tested up to Cubecart version: 6.5.1
 
 To Install and Setup the Nochex module please follow our integration guide, which can be found <a href="https://ssl.nochex.com/Docs/shopping-cart-guides/CubeCart">here</a>
 
@@ -15,6 +15,9 @@ Visit our Knowledgebase for support: https://support.nochex.com/
 
 Changelog
 =====================
+
+- 2.1.3
+  + Small change to APC
 
 - 2.1.2
   + Updated callback 
