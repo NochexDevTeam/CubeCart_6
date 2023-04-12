@@ -336,7 +336,7 @@ if($GLOBALS['_COOKIE']["currency"] == "USD") {
 
 		/* APC Url */
 
-		$url = "https://www.nochex.com/apcnet/apc.aspx";
+		$url = "https://secure.nochex.com/apc/apc.aspx";
 
 		/* Callback Curl - Post */
 
